@@ -1,6 +1,9 @@
 ### Projeto AWAX site desenvolvido para o treinamento em HTML 5 e CSS 3
 - Projeto que retrada um site.
 
+### Projeto publicado: 
+- http://awax.tfcoder.com/
+
 <hr/>
 
 ## <b>Header / Carrosel</b>
@@ -59,6 +62,7 @@
 
 ![Tela Principal](images/footer.png)
 <hr>
+
 
 
 ## <b>OBRIGADO</b>
