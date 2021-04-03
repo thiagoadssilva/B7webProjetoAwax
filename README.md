@@ -59,3 +59,6 @@
 
 ![Tela Principal](images/footer.png)
 <hr>
+
+
+## <b>OBRIGADO</b>
