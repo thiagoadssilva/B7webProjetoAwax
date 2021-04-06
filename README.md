@@ -1,4 +1,4 @@
-### Projeto AWAX site desenvolvido para o treinamento em HTML 5 e CSS 3
+### Projeto AWAX site desenvolvido para o treinamento em HTML 5 e CSS 3 do curso b7web
 - Projeto que retrada um site.
 
 ### Projeto publicado: 
